@@ -4,22 +4,26 @@ function App() {
   return (
     <div className="App">
       <nav>
+        <div className="container">
         <div className="logo">
           <h3>#151DaysOfCode</h3>
         </div>
         <ul>
-          <li><a href="">Home</a></li>
-          <li><a href="">Journey</a></li>
-          <li><a href="">Contact</a></li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Journey</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
+        </div>
       </nav>
       <header>
+        <div className="container">
         <h1>My Journey of #151DaysOfCode</h1>
         <p>I am sharing my journey of #151DaysOfCode on twitter. I created this webapp to create a collection
            of all my tweets at one place. So that I can keep counting my progress. </p>
+        </div>
       </header>
       <main>
-        
+          
       </main>
       <footer>
       <ul>
